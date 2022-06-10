@@ -56,22 +56,22 @@ dt.predict([[5,6]])
 
 ## Output:
 ## Data Head:
-![output(https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.1.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.1.png?raw=true)
 
 ## Data info:
-![output(https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.2.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.2.png?raw=true)
 
 ## Data Head after applying LabelEncoder:
-![output(https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.3.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.3.png?raw=true)
 
 ## MSE:
-![output(https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.4.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.4.png?raw=true)
 
 ## R2:
-![output(https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.5.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.5.png?raw=true)
 
 ## Data Prediction:
-![output(https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.6.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.6.png?raw=true)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
